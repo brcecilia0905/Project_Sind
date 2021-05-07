@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\new\SindOnibus\bin\Debug\netcoreapp2.2\SindOnibus.deps.json
+C:\Users\Bruno\Desktop\new\SindOnibus\bin\Debug\netcoreapp2.2\SindOnibus.runtimeconfig.json
+C:\Users\Bruno\Desktop\new\SindOnibus\bin\Debug\netcoreapp2.2\SindOnibus.runtimeconfig.dev.json
+C:\Users\Bruno\Desktop\new\SindOnibus\bin\Debug\netcoreapp2.2\SindOnibus.dll
+C:\Users\Bruno\Desktop\new\SindOnibus\bin\Debug\netcoreapp2.2\SindOnibus.pdb
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.RazorAssemblyInfo.cache
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.RazorAssemblyInfo.cs
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.dll
+C:\Users\Bruno\Desktop\new\SindOnibus\obj\Debug\netcoreapp2.2\SindOnibus.pdb
