@@ -12487,11 +12487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Bruno\\Desktop\\new\\SindOnibus\\SindOnibus.csproj",
+      "projectUniqueName": "c:\\Users\\Bruno\\Desktop\\projetoSelecaoSindOnibus\\SindOnibus\\SindOnibus.csproj",
       "projectName": "SindOnibus",
-      "projectPath": "c:\\Users\\Bruno\\Desktop\\new\\SindOnibus\\SindOnibus.csproj",
+      "projectPath": "c:\\Users\\Bruno\\Desktop\\projetoSelecaoSindOnibus\\SindOnibus\\SindOnibus.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Bruno\\Desktop\\new\\SindOnibus\\obj\\",
+      "outputPath": "c:\\Users\\Bruno\\Desktop\\projetoSelecaoSindOnibus\\SindOnibus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
